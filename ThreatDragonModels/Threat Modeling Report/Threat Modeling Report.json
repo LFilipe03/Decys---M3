@@ -7,7 +7,17 @@
     "id": 0
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "clar1ssesousa"
+      },
+      {
+        "name": "SlimJesus25"
+      },
+      {
+        "name": "1210951"
+      }
+    ],
     "diagrams": [
       {
         "id": 0,
