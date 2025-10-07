@@ -1544,7 +1544,7 @@
             },
             "vertices": [
               {
-                "x": -240,
+                "x": -260,
                 "y": 60
               }
             ]
@@ -1595,7 +1595,7 @@
             },
             "vertices": [
               {
-                "x": -250,
+                "x": -260,
                 "y": -50
               }
             ]
@@ -2059,6 +2059,38 @@
               "privilegeLevel": "",
               "threats": []
             }
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "labels": [
+              ""
+            ],
+            "id": "73b58d86-dc68-4a10-987c-3f74ef6cdf14",
+            "source": {
+              "x": -208,
+              "y": -68
+            },
+            "target": {
+              "x": -200,
+              "y": 70
+            },
+            "vertices": [
+              {
+                "x": -226,
+                "y": -6
+              }
+            ],
+            "zIndex": 17
           }
         ]
       }
